@@ -1,0 +1,18 @@
+/* src/components/Contact.css */
+.contact {
+    background-color: rgba(169, 190, 230, 0.8);
+    padding: 2em;
+    border-radius: 10px;
+    color: #333;
+  }
+  
+  .contact h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+  
+  .contact p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
