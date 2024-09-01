@@ -1,0 +1,28 @@
+/* src/components/Place.css */
+.place {
+    display: flex;
+    align-items: center;
+    margin: 3em 0;
+    padding: 2em;
+    background: rgba(82, 131, 220, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+  }
+  
+  .description {
+    flex: 1;
+    padding-right: 2em;
+  }
+  
+  .image img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .image img:hover {
+    transform: scale(1.05);
+  }
+  
