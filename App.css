@@ -1,0 +1,47 @@
+/* src/App.css */
+body {
+  background-image: url("https://th.wallha.com/ts/kn6S8ehI.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Arial', sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.App {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+section {
+  padding: 2em;
+  margin: 20px 0;
+  background: rgba(169, 190, 230, 0.8);
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
